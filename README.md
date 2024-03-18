@@ -14,7 +14,7 @@ I first imported the necessary libraries for the this project.
 
 ![5](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/ac27676c-cb10-4e1b-affd-8156afe4273e)
 
-Then I added, "getpass" into the Python code which was used to encrypt the password.
+Then I added, "getpass" into the Python code which was used to encrypt the password when a user is prompted to enter it.
 
 ![4](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/4852fa5f-7bc0-40a0-84f4-fb798b1b0aef)
 
