@@ -10,7 +10,7 @@ to any attackers.
 
 # Password Strength Checker Code
 
-I first imported the required packages for the code to work properly.
+I first imported the necessary libraries for the this project.
 
 ![5](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/ac27676c-cb10-4e1b-affd-8156afe4273e)
 
