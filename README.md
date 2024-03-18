@@ -8,7 +8,7 @@ and sensitive data being compromised.
 Users should ensure that their passwords are strong and hard to guess in order to prevent losing any sensitive information
 to any attackers. 
 
-# Password Strength Checker Code:
+# Password Strength Checker Code
 
 I first imported the required packages for the code to work properly.
 
@@ -44,7 +44,7 @@ If a user enters a strong password that meets all the requirements, the code wil
 ![3](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/093ccda2-e638-4ef8-8c66-1b37eb9783b4)
 
 
-# Comclusion:
+# Comclusion
 
 This was a fun project and I learned more about using strings and adding encryption in Python. Organizations should advise employees to use strong passwords that contain a mix
 of letters, numbers and special characters. This is to ensure that confidential information is protected and to reduce the likelihood of a security breach.
