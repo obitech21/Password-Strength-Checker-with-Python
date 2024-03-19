@@ -12,9 +12,6 @@ to any attackers.
 <br>
 <br>
 
-# Technologies used
-
-- Python 
 
 # Password Strength Checker Code
 
