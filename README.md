@@ -12,6 +12,10 @@ to any attackers.
 <br>
 <br>
 
+# Technologies used
+
+- Python 
+
 # Password Strength Checker Code
 
 I first imported the required libraries for this project.
