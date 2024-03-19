@@ -22,7 +22,7 @@ I first imported the required libraries for this project.
 <br>
 <br>
 
-Then I added, "getpass" into the Python code which was used to encrypt the password when a user is prompted to enter it.
+Then I added, "getpass" into the Python code which was used to encrypt the password when entered.
 
 ![4](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/4852fa5f-7bc0-40a0-84f4-fb798b1b0aef)
 
