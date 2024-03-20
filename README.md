@@ -33,7 +33,8 @@ Then I added, "getpass" into the Python code which was used to encrypt the passw
 
 After that, I created the requirements for the passwords.
 
-![6](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/950df749-d5e7-4630-8b89-10597af11eac)
+![6](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/6b503c95-15a1-4875-bd08-91392522d99b)
+
 
 <br>
 <br>
