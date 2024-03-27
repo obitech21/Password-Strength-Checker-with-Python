@@ -17,24 +17,45 @@ to any attackers.
 
 I first imported the required libraries for this project.
 
-![5](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/ac27676c-cb10-4e1b-affd-8156afe4273e)
+```python
+import string
+import getpass
+import re
+```
 
 <br>
 <br>
 <br>
 
 Then I added, "getpass" into the Python code which was used to encrypt the password when entered.
-
-![4](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/4852fa5f-7bc0-40a0-84f4-fb798b1b0aef)
+```python
+password = getpass.getpass("Enter password: ")
+```
 
 <br>
 <br>
 <br>
 
 After that, I created the requirements for the passwords.
-
-![6](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/6b503c95-15a1-4875-bd08-91392522d99b)
-
+```python
+if len(password) < 10:
+        print("This password is too short. Your password needs to be at least 10 characters long.")
+        
+elif not re.search("[A-Z]", password):
+        print("Password needs at least one uppercase letter.")
+        
+elif not re.search("[a-z]", password):
+        print("Password needs at least one lowercase letter.")
+        
+elif not re.search("[0-9]", password):
+        print("Password needs at least one number.")
+        
+elif not re.search('[!@#$%^&*(),?":{}|<>]', password):
+        print("Password needs at least one special character.")
+        
+else:
+        print ("Password is good to go.")
+```
 
 <br>
 <br>
@@ -42,7 +63,7 @@ After that, I created the requirements for the passwords.
 
 The code will prompt the user to enter a password and inform the user on whether the passwords is strong or not.
 
-As you can see, using "getpass" in Python code encrypted the password. 
+I noticed that using "getpass" in Python code helped to encrypt the password. 
 
 ![1](https://github.com/obi298/Password-Strength-Checker-with-Python/assets/90945162/bdba1860-0c94-443a-bda4-06a8ac8dd22f)
 
