@@ -91,7 +91,7 @@ If a user enters a strong password that meets all the requirements, the code wil
 # Conclusion
 
 This was a fun project and I learned more about using strings and adding encryption in Python. Organizations should advise employees to use strong passwords that contain a mix
-of letters, numbers and special characters. This is to ensure that confidential information is protected and to reduce the likelihood of a security breach.
+of letters, numbers and special characters to reduce the likelihood of a security breach.
 
 
 
