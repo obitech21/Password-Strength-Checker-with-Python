@@ -36,7 +36,7 @@ password = getpass.getpass("Enter password: ")
 <br>
 <br>
 
-After that, I created the requirements for the passwords.
+I then created the requirements for the passwords.
 ```python
 if len(password) < 10:
         print("This password is too short. Your password needs to be at least 10 characters long.")
